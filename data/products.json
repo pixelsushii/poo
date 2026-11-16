@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Teclado Mecánico",
+        "description": "Switches rojos silenciosos con retroiluminación RGB.",
+        "price": 85.50
+    },
+    {
+        "name": "Ratón Ergonómico",
+        "description": "Sensor óptico de alta precisión, inalámbrico.",
+        "price": 45.90
+    },
+    {
+        "name": "Monitor 27 pulgadas",
+        "description": "Panel IPS 4k a 144Hz ideal para gaming.",
+        "price": 320.99
+    }
+]
