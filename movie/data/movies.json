@@ -1,0 +1,50 @@
+[
+    {
+        "title": "El castillo en el cielo",
+        "director": "Hayao Miyazaki",
+        "year": 1986,
+        "rating": 8.0
+    },
+    {
+        "title": "El castillo ambulante",
+        "director": "Hayao Miyazaki",
+        "year": 1986,
+        "rating": 8.0
+    },
+    {
+        "title": "La tumba de las luciérnagas",
+        "director": "Isao Takahata",
+        "year": 1988,
+        "rating": 8.5
+    },
+    {
+        "title": "Mi vecino Totoro",
+        "director": "Hayao Miyazaki",
+        "year": 1988,
+        "rating": 8.1
+    },
+    {
+        "title": "Kiki aprendiz de bruja",
+        "director": "Hayao Miyazaki",
+        "year": 1989,
+        "rating": 7.8
+    },
+    {
+        "title": "La princesa Mononoke",
+        "director": "Hayao Miyazaki",
+        "year": 1997,
+        "rating": 8.3
+    },
+    {
+        "title": "El viaje de Chihiro",
+        "director": "Hayao Miyazaki",
+        "year": 2001,
+        "rating": 9
+    },
+    {
+        "title": "Ponyo en el acantilado",
+        "director": "Hayao Miyazaki",
+        "year": 2008,
+        "rating": 7.6
+    }
+]

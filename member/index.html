@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Directorio del Equipo</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <main>
+        <h1>Directorio del Equipo</h1>
+        <div class="filter">
+            <label for="department-filter">Filtrar por departamento</label>
+            <select id="department-filter">
+                <option value="all">Todos los departamentos</option>
+            </select>
+        </div>
+        <section id="member-holder" class="card-grid" aria-label="Team members"></section>
+    </main>
+    <script type="module" src="./scripts/app.js"></script>
+</body>
+</html>

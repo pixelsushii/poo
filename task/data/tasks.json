@@ -1,0 +1,42 @@
+[
+    {
+        "text": "Preparar la presentación del proyecto",
+        "category": "Trabajo",
+        "completed": false
+    },
+    {
+        "text": "Comprar ingredientes para la cena",
+        "category": "Personal",
+        "completed": false
+    },
+    {
+        "text": "Enviar el informe semanal",
+        "category": "Trabajo",
+        "completed": false
+    },
+    {
+        "text": "Leer un capítulo del libro",
+        "category": "Ocio",
+        "completed": false
+    },
+    {
+        "text": "Hacer ejercicio durante 30 minutos",
+        "category": "Salud",
+        "completed": false
+    },
+    {
+        "text": "Organizar el escritorio",
+        "category": "Personal",
+        "completed": false
+    },
+    {
+        "text": "Revisar los gastos de este mes",
+        "category": "Finanzas",
+        "completed": false
+    },
+    {
+        "text": "Llamar a la familia",
+        "category": "Personal",
+        "completed": false
+    }
+]

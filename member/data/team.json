@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Alejandro García",
+        "position": "Desarrollador Frontend",
+        "department": "Desarrollo",
+        "available": true
+    },
+    {
+        "name": "Sofía Martínez",
+        "position": "Diseñadora UX",
+        "department": "Diseño",
+        "available": true
+    },
+    {
+        "name": "Javier López",
+        "position": "Desarrollador Backend",
+        "department": "Desarrollo",
+        "available": false
+    },
+    {
+        "name": "Lucía Fernández",
+        "position": "Diseñadora Gráfica",
+        "department": "Diseño",
+        "available": true
+    },
+    {
+        "name": "David Ruiz",
+        "position": "Gerente de Proyecto",
+        "department": "Operaciones",
+        "available": false
+    },
+    {
+        "name": "Marta Sánchez",
+        "position": "Ingeniera de QA",
+        "department": "Desarrollo",
+        "available": true
+    }
+]

@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 2rem;
+    color: #242424;
+    background: #f4f1ea;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.filter {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    max-width: 320px;
+    margin-bottom: 1.5rem;
+}
+
+.filter select {
+    padding: 0.6rem;
+    border: 1px solid #b8b3a9;
+    border-radius: 5px;
+    background: #fff;
+    font: inherit;
+}
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+}
+
+.member-card {
+    padding: 1.25rem;
+    border: 1px solid #d5d0c5;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 3px 8px rgb(0 0 0 / 8%);
+}
+
+.member-card h2 {
+    margin-top: 0;
+}
+
+.member-department {
+    color: #595959;
+}
+
+.member-availability {
+    font-weight: 700;
+}
+
+.member-availability--available {
+    color: #25643a;
+}
+
+.member-availability--unavailable {
+    color: #8a3030;
+}
